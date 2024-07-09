@@ -1,0 +1,5 @@
+lista1 = [10,13,25]
+lista2 = [26,9,20]
+conectando = lista1 + lista2
+
+print(conectando) 
